@@ -1,4 +1,15 @@
+/* loading */
+
+svg path,
+svg rect {
+    fill: black;
+}
+
+
 /* You can add global styles to this file, and also import other style files */
+
+
+/* animaciones */
 
 .animated {
     -webkit-animation-duration: 0.5s;
